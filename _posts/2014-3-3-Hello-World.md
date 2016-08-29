@@ -1,10 +1,22 @@
 ---
 layout: post
-title: You're up and running!
+title: Week One
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Week 1:
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+What did you do this past week?
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+This week I got back into the swing of things at UT. I spent a good amount of time trying to plan out my course schedule. I was added into mobile computing and iOS Mobile Computing, and I was actually swapped out of object oriented programming. I only intended to add one of the previously mentioned classes. After sorting it out I remained in iOS Mobile Computing and was able to switch back into OOP. The first few days of OOP were interesting. Professor Downing’s method of teaching is new to me in a CS class. He likes to call on people right off of the class roster, which I haven’t seen before in a CS class. Keeps you on your feet during the lecture. 
+
+What’s in your way?
+
+At the moment I am focused between the upcoming workload from classes and the career fair. I’m pretty stressed at the moment about recruitment season for summer internships. No matter how many times you practice for interviews you still never know what an interviewer will through at you. I am just looking forward to getting through the recruitment season and hopefully locking down an internship earlier rather than later so I can focus in on my classes. 
+
+What will you do next week?
+
+This week the workload will start actually picking up for most of my classes, including OOP. I am going to get a jump start on the first project to gauge the difficulty level and hopefully get ahead of the game. My experience in C++ is virtually non-existent so I am looking forward to getting the basics down this week.
+
+Tip of The Week:
+
+If you happen to be in a non-cs related org that needs a website don’t code it up yourself, especially if you are going to need to have people who are unfamiliar with web development updating it. I recommend Squarespace. It is relatively affordable and super user friendly for all your friends who have no idea where to begin editing a custom written 
